@@ -1,0 +1,407 @@
+html,
+body {
+	font: 'Raleway', sans-serif;
+	color: #FEFFFD;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 10%;
+	background: #48CE99;
+}
+.wrap {
+	
+	margin-top: 150px;
+	
+	text-align: center;
+
+	}
+
+
+
+.link {
+	text-decoration: none;
+	color: #48CE99;
+	font-size: 20px;
+	height: 15px;
+	border: #48CE99;
+	border-width: 10px;
+
+}
+ #enterInput {
+ 	height: 20px;
+ }
+ @media only screen and (max-device-width: 480px) {
+	html,
+	body {
+		font: 'Raleway', sans-serif;
+		color: #FEFFFD;
+		text-align: center;
+		text-transform: uppercase;
+		letter-spacing: .5em;
+		top: 40%;
+		background: #48CE99;
+		font-size: 40px;
+	}
+	wrap {
+	
+		margin-top:250px;
+		
+		text-align: center;
+	
+		}
+
+		.link {
+			text-decoration: none;
+			color: #48CE99;
+			font-size: 40px;
+			height: 15px;
+			border: #48CE99;
+			border-width: 10px;
+		
+		}
+		 #enterInput {
+			 height: 50px;
+			 width: 150px;
+			 font-size: 30px;
+			 background-color: #ffffff;
+			 text-size-adjust: 50px;
+		 }
+		 .qOne, .qTwo {
+			 margin-top: 350px;
+		 }
+		 .qThree, .qFour {
+			 margin-top: 350px;
+		 }
+		 input[type=text] {
+			 width: 350px;
+			 height: 50px;
+			 font-size: 50px;
+		 }
+		 
+		}
+
+		@media only screen and (max-device-width: 360px) {
+			html,
+			body {
+				font: 'Raleway', sans-serif;
+				color: #FEFFFD;
+				text-align: center;
+				text-transform: uppercase;
+				letter-spacing: .5em;
+				top: 40%;
+				background: #48CE99;
+				font-size: 40px;
+			}
+			wrap {
+			
+				margin-top: 250px;
+				
+				text-align: center;
+			
+				}
+		
+				.link {
+					text-decoration: none;
+					color: #48CE99;
+					font-size: 40px;
+					height: 15px;
+					border: #48CE99;
+					border-width: 10px;
+				
+				}
+				 #enterInput {
+					 height: 80px;
+					 width: 180px;
+					 font-size: 30px;
+					 background-color: #ffffff;
+					 font-size: 40px;
+					 
+				 }
+				 .qOne, .qTwo {
+					 margin-top: 350px;
+				 }
+				 .qThree, .qFour {
+					 margin-top: 350px;
+				 }
+				 input[type=text] {
+					 width: 400px;
+					 height: 60px;
+					 font-size: 50px;
+				 }
+				 .paragraph {
+					 margin-top: 350px;
+				 }
+				 
+				}
+				@media only screen and (max-device-width: 411px) {
+					html,
+					body {
+						font: 'Raleway', sans-serif;
+						color: #FEFFFD;
+						text-align: center;
+						text-transform: uppercase;
+						letter-spacing: .5em;
+						top: 40%;
+						background: #48CE99;
+						font-size: 40px;
+					}
+					wrap {
+					
+						margin-top: 250px;
+						
+						text-align: center;
+					
+						}
+				
+						.link {
+							text-decoration: none;
+							color: #48CE99;
+							font-size: 40px;
+							height: 15px;
+							border: #48CE99;
+							border-width: 10px;
+						
+						}
+						 #enterInput {
+							 height: 80px;
+							 width: 180px;
+							 font-size: 30px;
+							 background-color: #ffffff;
+							 font-size: 40px;
+							 
+						 }
+						 .qOne, .qTwo {
+							 margin-top: 350px;
+						 }
+						 .qThree, .qFour {
+							 margin-top: 350px;
+						 }
+						 input[type=text] {
+							 width: 400px;
+							 height: 60px;
+							 font-size: 50px;
+						 }
+						 .paragraph {
+							 margin-top: 350px;
+						 }
+						 
+						}
+						@media only screen and (max-device-width: 320px) {
+							html,
+							body {
+								font: 'Raleway', sans-serif;
+								color: #FEFFFD;
+								text-align: center;
+								text-transform: uppercase;
+								letter-spacing: .5em;
+								top: 40%;
+								background: #48CE99;
+								font-size: 43px;
+							}
+							wrap {
+							
+								margin-top: 250px;
+								
+								text-align: center;
+							
+								}
+						
+								.link {
+									text-decoration: none;
+									color: #48CE99;
+									font-size: 40px;
+									height: 15px;
+									border: #48CE99;
+									border-width: 10px;
+								
+								}
+								 #enterInput {
+									 height: 80px;
+									 width: 200px;
+									 font-size: 30px;
+									 background-color: #ffffff;
+									 font-size: 45px;
+									 
+								 }
+								 .qOne, .qTwo {
+									 margin-top: 350px;
+								 }
+								 .qThree, .qFour {
+									 margin-top: 350px;
+								 }
+								 input[type=text] {
+									 width: 500px;
+									 height: 60px;
+									 font-size: 50px;
+								 }
+								 .paragraph {
+									 margin-top: 350px;
+								 }
+								 
+								}
+
+								@media only screen and (max-device-width: 414px) {
+									html,
+									body {
+										font: 'Raleway', sans-serif;
+										color: #FEFFFD;
+										text-align: center;
+										text-transform: uppercase;
+										letter-spacing: .5em;
+										top: 40%;
+										background: #48CE99;
+										font-size: 45px;
+									}
+									wrap {
+									
+										margin-top: 250px;
+										
+										text-align: center;
+									
+										}
+								
+										.link {
+											text-decoration: none;
+											color: #48CE99;
+											font-size: 40px;
+											height: 15px;
+											border: #48CE99;
+											border-width: 10px;
+										
+										}
+										 #enterInput {
+											 height: 80px;
+											 width: 300px;
+											 
+											 background-color: #ffffff;
+											 font-size: 50px;
+									
+										 }
+										 .qOne, .qTwo {
+											 margin-top: 350px;
+										 }
+										 .qThree, .qFour {
+											 margin-top: 350px;
+										 }
+										 input[type=text] {
+											 width: 500px;
+											 height: 60px;
+											 font-size: 50px;
+										 }
+										 .paragraph {
+											 margin-top: 350px;
+										 }
+										 
+										}
+
+							@media only screen and (max-device-width: 768px) {
+					html,
+					body {
+						font: 'Raleway', sans-serif;
+						color: #FEFFFD;
+						text-align: center;
+						text-transform: uppercase;
+						letter-spacing: .5em;
+						top: 40%;
+						background: #48CE99;
+						font-size: 43px;
+					}
+					wrap {
+					
+						margin-top: 250px;
+						
+						text-align: center;
+					
+						}
+				
+						.link {
+							text-decoration: none;
+							color: #48CE99;
+							font-size: 40px;
+							height: 15px;
+							border: #48CE99;
+							border-width: 10px;
+						
+						}
+						#enterInput {
+							height: 80px;
+							width: 200px;
+							font-size: 30px;
+							background-color: #ffffff;
+							font-size: 45px;
+							
+						}
+						.qOne, .qTwo {
+							margin-top: 350px;
+						}
+						.qThree, .qFour {
+							margin-top: 350px;
+						}
+						input[type=text] {
+							width: 500px;
+							height: 60px;
+							font-size: 50px;
+						}
+						.paragraph {
+							margin-top: 350px;
+						}
+						
+						}
+
+						@media only screen and (max-device-width: 1024px) {
+							html,
+							body {
+								font: 'Raleway', sans-serif;
+								color: #FEFFFD;
+								text-align: center;
+								text-transform: uppercase;
+								letter-spacing: .5em;
+								top: 40%;
+								background: #48CE99;
+								font-size: 43px;
+							}
+							wrap {
+							
+								margin-top: 250px;
+								
+								text-align: center;
+							
+								}
+						
+								.link {
+									text-decoration: none;
+									color: #48CE99;
+									font-size: 40px;
+									height: 15px;
+									border: #48CE99;
+									border-width: 10px;
+								
+								}
+								 #enterInput {
+									 height: 80px;
+									 width: 200px;
+									 font-size: 30px;
+									 background-color: #ffffff;
+									 font-size: 45px;
+									 
+								 }
+								 .qOne, .qTwo {
+									 margin-top: 350px;
+								 }
+								 .qThree, .qFour {
+									 margin-top: 350px;
+								 }
+								 input[type=text] {
+									 width: 500px;
+									 height: 60px;
+									 font-size: 50px;
+								 }
+								 .paragraph {
+									 margin-top: 350px;
+								 }
+								 
+								}
+
+								
+
+				
